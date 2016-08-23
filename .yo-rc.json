@@ -1,0 +1,9 @@
+{
+  "generator-spring-rest": {
+    "baseName": "deleteme",
+    "packageName": "com.tek.myservice",
+    "packageNameGenerated": "com.tek.myservice.generated",
+    "dockerrootrepo": "reasonthearchitect",
+    "configserverurl": "http://config.reasonthearchitect.com"
+  }
+}
